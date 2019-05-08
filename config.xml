@@ -5,7 +5,7 @@ xmlns:gap = "http://phonegap.com/ns/1.0"
 id = "com.phonegap.app6"
 version ="1.0.0">
 
-<name> appg - DESLIZAR </name>
+<name> app6 - DESLIZAR </name>
 
 <description>
 Aplicacion que realiza el swipe o deslizamiento en el dispositivo
